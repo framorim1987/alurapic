@@ -20,11 +20,20 @@
 
 ### Bem começado, metade feito
 
-Nesta aula geramos o projeto atravé do vue-cli, foi utilizada a versão 2.7.0 do vue-cli e foram explicados:
-* Estrutura do projeto
-* Babel, Webpack e geração do bundle
-* Componentes declarados em Single File Templates
-* View Instance
-* Renderizando um template
-* Interpolação e data binding
-* Live reloading
+Nesta aula aprendemos:
+* Instalar e utilizar o Vue CLI
+* Criar do zero um novo projeto
+* Estrutura fundamental do projeto
+* Arquivos de template .vue
+* Estrutura de um template
+* Relação entre index.html, main.js e App.vue
+* Como a renderização de um template é feita
+* Data binding unidirecional através de interpolação
+* O mecanismo de live reloading
+
+### Adequando o template gerado
+
+Nesta aula aprendemos:
+* Data binding unidirecional em atributos através da diretiva v-bind
+* Atalho para v-bind
+* A diretiva v-for
