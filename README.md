@@ -8,7 +8,7 @@
 * Aplicar boas práticas do início ao fim
 * Integrar com o backend NodeJS como exemplo
 
-## O Curso foi divido nas seguintes aulas
+## O Curso foi divido nos seguintes capítulos
 
 1. Bem começado, metade feito
 2. Adequando o template gerado
@@ -37,3 +37,15 @@ Nesta aula aprendemos:
 * Data binding unidirecional em atributos através da diretiva v-bind
 * Atalho para v-bind
 * A diretiva v-for
+
+### Integração com API de terceiros
+
+Neste capítulo aprendemos:
+* Subir uma API para ser consumida pela nossa aplicação
+* Entender a separação entre cliente e API
+* Baixar e registrar o módulo VueResource
+* Suporte à lifecycle hooks que todo componente possui
+* Que recursos no global view object ficam disponíveis para todas as outras view
+* Consumir uma API através de $http
+* O conceito de promise
+* Enxergar ainda melhor o poder do data binding
