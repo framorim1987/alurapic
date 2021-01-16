@@ -49,3 +49,14 @@ Neste capítulo aprendemos:
 * Consumir uma API através de $http
 * O conceito de promise
 * Enxergar ainda melhor o poder do data binding
+
+### Criando componentes e encapsulamento de view
+
+Neste capítulo aprendemos:
+* A estilizar um componente
+* Boa prática na organização do projeto
+* A criar um componente reutilizável
+* Como passar parâmetro para um componente (comunicação)
+* O conceito de slot e preservação de conteúdo
+* Importação de um componente em outro
+* A definir e delimitar o escopo de estilos ao componente no qual foram declarados
