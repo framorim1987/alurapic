@@ -1,6 +1,23 @@
-# Projeto desenvolvido no curso *Vue.js construindo Single Page Applications* da Alura
+# AluraPic
+Projeto desenvolvido no curo Vue.js: construindo Single Page Applications da *Alura*.
 
-## Objetivos do curso
+## Sobre o projeto
+Nesse projeto foi desenvolvida uma SPA utilizando o framework Vue.JS
+
+Trata-se de uma página que exibe fotos e concumindo uma API, a página tem um campo de filtro que possibilita exibir apenas algumas imagens
+
+## Como rodar o projeto
+Pelo terminal, navegue até a pasta do projeto
+
+Com o node instalado, *npm run dev* para rodar o projeto
+
+Pelo terminal, navegue até a pasta da API
+
+Com o node instalado, *npm init* para iniciar o servidor da API
+
+## Sobre o curso
+
+O curso tem o seguintes objetivs
 
 * Construir do zero uma Single Page Application
 * Criar meus próprios componentes
@@ -8,7 +25,7 @@
 * Aplicar boas práticas do início ao fim
 * Integrar com o backend NodeJS como exemplo
 
-## O Curso foi divido nos seguintes capítulos
+O curso foi divido nos seguintes tópicos
 
 1. Bem começado, metade feito
 2. Adequando o template gerado
